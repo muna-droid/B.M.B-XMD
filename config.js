@@ -17,9 +17,9 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "25566862457",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "2348160931989",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "✦ B.M.B-XMD ✦ XMD ✦",
+OWNER_NAME: process.env.OWNER_NAME || "✦ muna-droid ✦",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ✦ B.M.B-XMD ✦ XMD ✦*",
 // add bot owner name    
@@ -27,7 +27,7 @@ ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/p9hyal.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || ">B.M.B IS ACTIVE AND ALIVE\n\n\nKEEP USING B.M.B-XMD FROM B.M.B TECH INC⚡",
 // add alive msg here 
-READ_MESSAGE: process.env.READ_MESSAGE || "false",
+READ_MESSAGE: process.env.READ_MESSAGE || "yes",
 // Turn true or false for automatic read msgs
 AUTO_REACT: process.env.AUTO_REACT || "false",
 // make this true or false for auto react on all msgs
